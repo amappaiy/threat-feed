@@ -364,6 +364,7 @@
 83.142.54.0/23 # PureVoltage QN-8
 147.78.182.0/24 # PureVoltage Net-traffictransitsolution-59
 185.61.222.0/24 # PureVoltage Net-traffictransitsolution-51
+185.68.185.0/24 # PureVoltage Net-finegroupservers-16
 #61317 (ASDETUK - Hivelocity LLC, US)
 77.83.195.0/24 # US-NELEEL-20210121
 181.215.71.0/24 # HEFICED
