@@ -366,6 +366,10 @@
 107.189.1.175/32 #REP - BAD (on stopforumspam.org)
 #16276 (OVH - OVH SAS, FR)
 51.38.225.46/32 #BAD (on stopforumspam.org)
+#35830 (BTTGROUP-AS - BTT Group Finance Ltd, GB)
+77.81.65.0/24
+
+##############################
 ###IP with username admin
 5.181.86.0/24 #CLOUDVPS
 5.181.168.0/22
