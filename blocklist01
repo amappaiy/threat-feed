@@ -352,10 +352,12 @@
 #AS26548 PureVoltage Hosting - TrafficTransitSolution LLC
 185.88.100.0/24
 146.19.78.0/24
+93.177.118.0/23
 #14576 HOSTING-SOLUTIONS - Finegroup
 185.68.246.0/24
 45.140.206.0/23
 193.202.8.0/23
+93.177.116.0/23
 #SC-UMOS RU
 #185.68.152.0/22
 #185.94.32.0/22
@@ -368,6 +370,10 @@
 51.38.225.46/32 #BAD (on stopforumspam.org)
 #35830 (BTTGROUP-AS - BTT Group Finance Ltd, GB)
 77.81.65.0/24
+#43350 (NFORCE - NForce Entertainment B.V., NL)
+185.107.57.0/24 #Scanners
+#47066 (PRGMR, US)
+71.19.144.0/24
 
 ##############################
 ###IP with username admin
