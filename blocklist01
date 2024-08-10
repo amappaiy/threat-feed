@@ -349,6 +349,7 @@
 185.152.94.0/23
 45.10.164.0/24
 141.98.87.0/24
+193.233.88.0/24 # (TrafficTransitSolutionNet)
 #AS26548 PureVoltage Hosting - TrafficTransitSolution LLC
 185.88.100.0/24
 146.19.78.0/24
@@ -383,6 +384,13 @@
 62.204.49.0/25 # FINEGROUPSERVERS-LEASE
 #51852 (PLI-AS - Private Layer INC, PA)
 179.43.159.0/24
+#8342 (RTCOMM-AS - JSC RTComm.RU, RU)
+193.233.62.0/24 (AVT-NET-2)
+193.233.170.0/24 # (AVT-NET-3)
+#210644 (AEZA-AS - AEZA INTERNATIONAL LTD, GB)
+193.233.133.0/24 # (AEZA-NETWORK-PARIS)
+
+
 
 ##############################
 ###IP with username admin
