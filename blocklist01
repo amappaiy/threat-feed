@@ -351,6 +351,7 @@
 45.10.164.0/24
 141.98.87.0/24
 193.233.88.0/24 # (TrafficTransitSolutionNet)
+141.98.84.0/24 # Net-traffictransitsolution-33
 #AS26548 PureVoltage Hosting - TrafficTransitSolution LLC
 185.88.100.0/24
 146.19.78.0/24
