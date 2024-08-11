@@ -422,6 +422,8 @@
 193.233.133.0/24 # (AEZA-NETWORK-PARIS)
 #35624 SILVERSTAR-AS - Silverstar Invest Limited, GB
 79.110.17.0/24 # Silverstar_Invest_Limited
+#63023 AS-GLOBALTELEHOST, US
+69.50.95.0/24 # Shock VPN LLC
 
 ##############################
 ###IP with username admin
