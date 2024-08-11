@@ -365,6 +365,7 @@
 147.78.182.0/24 # PureVoltage Net-traffictransitsolution-59
 185.61.222.0/24 # PureVoltage Net-traffictransitsolution-51
 185.68.185.0/24 # PureVoltage Net-finegroupservers-16
+45.80.104.0/23 # PureVoltage NET-BNSL2-1
 #61317 (ASDETUK - Hivelocity LLC, US)
 77.83.195.0/24 # US-NELEEL-20210121
 181.215.71.0/24 # HEFICED
@@ -397,6 +398,9 @@
 91.204.14.0/24 # NET-FGSS1-1
 #43350 (NFORCE - NForce Entertainment B.V., NL)
 185.107.57.0/24 #Scanners
+45.159.20.0/24 # BTT - FINEGROUPSERVERS-LEASE
+45.138.102.0/24 # BTT - Net-traffictransitsolution-11
+185.88.37.0/24 # BTT - Net-finegroupservers-22
 #47066 (PRGMR, US)
 71.19.144.0/24
 #559 (SWITCH, CH)
@@ -416,8 +420,8 @@
 193.233.170.0/24 # (AVT-NET-3)
 #210644 (AEZA-AS - AEZA INTERNATIONAL LTD, GB)
 193.233.133.0/24 # (AEZA-NETWORK-PARIS)
-
-
+#35624 SILVERSTAR-AS - Silverstar Invest Limited, GB
+79.110.17.0/24 # Silverstar_Invest_Limited
 
 ##############################
 ###IP with username admin
