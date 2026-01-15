@@ -88,10 +88,6 @@
 23.234.79.0/24
 45.227.253.0/24
 78.187.233.34/32
-154.213.163.0/24
-154.213.164.0/24
-154.213.165.0/24
-154.213.166.0/24
 45.227.253.0/24
 65.111.0.0/19 # 3xK Tech GmbH
 104.207.32.0/19 # 3xK Tech GmbH
@@ -102,6 +98,10 @@
 193.56.28.0/24 # 3xK Tech GmbH
 104.167.19.0/24 # 3xK Tech GmbH
 104.167.25.0/24 # 3xK Tech GmbH
+154.213.160.0/22 # 3xK Tech GmbH
+154.213.164.0/24 # 3xK Tech GmbH
+154.213.165.0/24 # 3xK Tech GmbH
+154.213.166.0/24 # 3xK Tech GmbH
 45.142.193.0/24 # LIMITED-NETWORK
 194.38.20.0/22 # Rices Privately owned enterprise
 185.243.96.0/24 # Rices Privately owned enterprise
