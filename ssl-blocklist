@@ -13,7 +13,7 @@
 141.98.83.0/24 # attempts=1352 distinct_ips=3 tags=SUSPICIOUS_ACTIVITY
 185.156.73.0/24 # attempts=1336 distinct_ips=4 tags=SUSPICIOUS_ACTIVITY
 87.251.67.0/24 # attempts=1247 distinct_ips=92 tags=SUSPICIOUS_ACTIVITY
-80.66.83.30/31 # attempts=973 distinct_ips=2 tags=SUSPICIOUS_ACTIVITY
+80.66.83.0/24 # attempts=973 distinct_ips=2 tags=SUSPICIOUS_ACTIVITY
 185.242.246.0/24 # attempts=875 distinct_ips=16 tags=SUSPICIOUS_ACTIVITY
 136.144.42.0/24 # attempts=764 distinct_ips=10 tags=SUSPICIOUS_ACTIVITY
 185.218.138.0/24 # attempts=699 distinct_ips=6 tags=SUSPICIOUS_ACTIVITY
