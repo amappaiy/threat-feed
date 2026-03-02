@@ -340,8 +340,8 @@
 185.203.125.0/24 # attempts=12 distinct_ips=10 tags=SUSPICIOUS_ACTIVITY
 149.18.9.0/24 # attempts=12 distinct_ips=12 tags=SUSPICIOUS_ACTIVITY
 149.18.8.0/24 # attempts=12 distinct_ips=12 tags=SUSPICIOUS_ACTIVITY
-#39.157.82.0/24 # attempts=11 distinct_ips=3 tags=SUSPICIOUS_ACTIVITY # Removal request by Xi Yue
-223.104.41.0/24 # attempts=11 distinct_ips=3 tags=SUSPICIOUS_ACTIVITY
+#39.157.82.0/24 # attempts=11 distinct_ips=3 tags=SUSPICIOUS_ACTIVITY # Removal request by Xi Yue - CMNET-BEIJING-AP
+#223.104.41.0/24 # attempts=11 distinct_ips=3 tags=SUSPICIOUS_ACTIVITY # CMNET-BEIJING-AP
 23.234.110.0/24 # attempts=11 distinct_ips=4 tags=SUSPICIOUS_ACTIVITY
 173.249.253.0/24 # attempts=11 distinct_ips=5 tags=SUSPICIOUS_ACTIVITY
 101.3.35.0/24 # attempts=11 distinct_ips=3 tags=SUSPICIOUS_ACTIVITY
