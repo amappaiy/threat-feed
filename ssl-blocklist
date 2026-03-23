@@ -1,50 +1,31 @@
-31.56.117.0/24 # score=113481 attempts=4728 ips=1 severity=CRITICAL tags=ATTACKER_PERSISTENCE,DISTRIBUTED_ATTACK,HIGH_FREQUENCY,USERNAME_SPRAY
-146.19.125.0/24 # score=42058 attempts=1752 ips=1 severity=CRITICAL tags=ATTACKER_PERSISTENCE,DISTRIBUTED_ATTACK,HIGH_FREQUENCY,LOW_SLOW_PROBE,USERNAME_SPRAY
-31.57.216.0/24 # score=4424 attempts=194 ips=6 severity=CRITICAL,MEDIUM,HIGH tags=ATTACKER_PERSISTENCE,DISTRIBUTED_ATTACK,HIGH_FREQUENCY,LOW_SLOW_PROBE,USERNAME_SPRAY
-172.94.9.0/24 # score=4168 attempts=198 ips=11 severity=CRITICAL,MEDIUM,HIGH tags=ATTACKER_PERSISTENCE,DISTRIBUTED_ATTACK,HIGH_FREQUENCY,LOW_SLOW_PROBE,USERNAME_SPRAY
-87.251.64.0/24 # score=936 attempts=144 ips=72 severity=MEDIUM tags=LOW_SLOW_PROBE
-192.253.248.0/24 # score=834 attempts=84 ips=26 severity=MEDIUM,HIGH tags=ATTACKER_PERSISTENCE,LOW_SLOW_PROBE
-144.172.99.0/24 # score=222 attempts=32 ips=7 severity=MEDIUM,HIGH tags=DISTRIBUTED_ATTACK,HIGH_FREQUENCY,LOW_SLOW_PROBE
-130.12.182.0/24 # score=198 attempts=16 ips=2 severity=HIGH tags=ATTACKER_PERSISTENCE,LOW_SLOW_PROBE
-144.172.91.0/24 # score=166 attempts=22 ips=6 severity=MEDIUM,HIGH tags=DISTRIBUTED_ATTACK,LOW_SLOW_PROBE
-208.131.130.0/24 # score=111 attempts=18 ips=3 severity=MEDIUM tags=LOW_SLOW_PROBE
-172.86.117.0/24 # score=109 attempts=14 ips=2 severity=MEDIUM,HIGH tags=DISTRIBUTED_ATTACK,HIGH_FREQUENCY,LOW_SLOW_PROBE
-167.88.164.0/24 # score=101 attempts=10 ips=3 severity=MEDIUM,HIGH tags=ATTACKER_PERSISTENCE,LOW_SLOW_PROBE
-172.86.127.0/24 # score=84 attempts=10 ips=1 severity=HIGH tags=DISTRIBUTED_ATTACK,HIGH_FREQUENCY
-213.209.159.0/24 # score=75 attempts=6 ips=1 severity=HIGH tags=ATTACKER_PERSISTENCE,LOW_SLOW_PROBE
-37.19.210.0/24 # score=64 attempts=10 ips=4 severity=MEDIUM tags=LOW_SLOW_PROBE
-138.199.43.0/24 # score=52 attempts=8 ips=4 severity=MEDIUM tags=LOW_SLOW_PROBE
-92.118.126.0/24 # score=52 attempts=8 ips=4 severity=MEDIUM tags=LOW_SLOW_PROBE
-172.86.113.0/24 # score=51 attempts=6 ips=1 severity=HIGH tags=DISTRIBUTED_ATTACK,LOW_SLOW_PROBE
-79.127.217.0/24 # score=51 attempts=8 ips=3 severity=MEDIUM tags=LOW_SLOW_PROBE
-37.19.200.0/24 # score=51 attempts=8 ips=3 severity=MEDIUM tags=LOW_SLOW_PROBE
-23.234.88.171/32 # score=50 attempts=8 ips=2 severity=MEDIUM tags=LOW_SLOW_PROBE
-144.172.94.0/24 # score=50 attempts=8 ips=2 severity=MEDIUM tags=LOW_SLOW_PROBE
-38.190.224.35/32 # score=50 attempts=8 ips=2 severity=MEDIUM tags=LOW_SLOW_PROBE
-185.156.73.0/24 # score=44 attempts=10 ips=1 severity=HIGH tags=DISTRIBUTED_ATTACK,HIGH_FREQUENCY
-146.70.187.0/24 # score=39 attempts=6 ips=3 severity=MEDIUM tags=LOW_SLOW_PROBE
-146.70.165.0/24 # score=39 attempts=6 ips=3 severity=MEDIUM tags=LOW_SLOW_PROBE
-194.213.18.0/24 # score=39 attempts=6 ips=3 severity=MEDIUM tags=LOW_SLOW_PROBE
-144.172.105.0/24 # score=38 attempts=6 ips=2 severity=MEDIUM tags=LOW_SLOW_PROBE
-172.86.123.0/24 # score=38 attempts=6 ips=2 severity=MEDIUM tags=LOW_SLOW_PROBE
-185.156.46.0/24 # score=38 attempts=6 ips=2 severity=MEDIUM tags=LOW_SLOW_PROBE
-23.234.94.117/32 # score=37 attempts=6 ips=1 severity=MEDIUM tags=LOW_SLOW_PROBE
-172.86.89.0/24 # score=26 attempts=4 ips=2 severity=MEDIUM tags=LOW_SLOW_PROBE
-172.86.90.0/24 # score=26 attempts=4 ips=2 severity=MEDIUM tags=LOW_SLOW_PROBE
-23.234.69.44/32 # score=26 attempts=4 ips=2 severity=MEDIUM tags=LOW_SLOW_PROBE
-149.40.50.0/24 # score=26 attempts=4 ips=2 severity=MEDIUM tags=LOW_SLOW_PROBE
-216.126.236.0/24 # score=25 attempts=4 ips=1 severity=MEDIUM tags=LOW_SLOW_PROBE
-23.234.100.0/24 # score=25 attempts=4 ips=1 severity=MEDIUM tags=LOW_SLOW_PROBE
-146.70.166.197/32 # score=25 attempts=4 ips=1 severity=MEDIUM tags=LOW_SLOW_PROBE
-68.235.46.183/32 # score=25 attempts=4 ips=1 severity=MEDIUM tags=LOW_SLOW_PROBE
-45.61.157.0/24 # score=13 attempts=2 ips=1 severity=MEDIUM tags=LOW_SLOW_PROBE
-68.168.222.0/24 # score=13 attempts=2 ips=1 severity=MEDIUM tags=LOW_SLOW_PROBE
-172.86.121.0/24 # score=13 attempts=2 ips=1 severity=MEDIUM tags=LOW_SLOW_PROBE
-144.172.108.0/24 # score=13 attempts=2 ips=1 severity=MEDIUM tags=LOW_SLOW_PROBE
-45.86.230.0/24 # score=13 attempts=2 ips=1 severity=MEDIUM tags=LOW_SLOW_PROBE
-144.172.104.0/24 # score=13 attempts=2 ips=1 severity=MEDIUM tags=LOW_SLOW_PROBE
-213.109.192.0/24 # score=13 attempts=2 ips=1 severity=MEDIUM tags=LOW_SLOW_PROBE
-89.125.66.0/24 # score=13 attempts=2 ips=1 severity=MEDIUM tags=LOW_SLOW_PROBE
-104.164.20.233/32 # score=13 attempts=2 ips=1 severity=MEDIUM tags=LOW_SLOW_PROBE
-104.36.50.0/24 # score=13 attempts=2 ips=1 severity=MEDIUM tags=LOW_SLOW_PROBE
-23.234.80.147/32 # score=13 attempts=2 ips=1 severity=MEDIUM tags=LOW_SLOW_PROBE
+23.159.216.0/24    # ASN:17243 | US | BYTENODE-AS | attempts:256 | density:1.000 | score:614 | action:BLOCK
+23.162.40.0/24     # ASN:400882 | US | AS-CYBER-DATA | attempts:256 | density:1.000 | score:614 | action:BLOCK
+23.234.69.0/24     # ASN:11878 | US | TZULO | attempts:256 | density:1.000 | score:614 | action:BLOCK
+23.234.70.0/23     # ASN:11878 | US | TZULO | attempts:512 | density:1.000 | score:1024 | action:BLOCK
+23.234.80.0/23     # ASN:11878 | US | TZULO | attempts:512 | density:1.000 | score:1024 | action:BLOCK
+23.234.88.0/24     # ASN:11878 | US | TZULO | attempts:256 | density:1.000 | score:614 | action:BLOCK
+23.234.91.0/24     # ASN:11878 | US | TZULO | attempts:56 | density:0.219 | score:134 | action:BLOCK
+23.234.92.0/24     # ASN:11878 | US | TZULO | attempts:256 | density:1.000 | score:614 | action:BLOCK
+23.234.94.0/24     # ASN:11878 | US | TZULO | attempts:56 | density:0.219 | score:134 | action:BLOCK
+23.234.96.0/24     # ASN:11878 | US | TZULO | attempts:58 | density:0.227 | score:139 | action:BLOCK
+23.234.100.0/24    # ASN:11878 | US | TZULO | attempts:256 | density:1.000 | score:614 | action:BLOCK
+23.234.114.0/24    # ASN:11878 | US | TZULO | attempts:58 | density:0.227 | score:139 | action:BLOCK
+23.234.117.0/24    # ASN:11878 | US | TZULO | attempts:57 | density:0.223 | score:136 | action:BLOCK
+23.234.118.0/24    # ASN:11878 | US | TZULO | attempts:58 | density:0.227 | score:139 | action:BLOCK
+37.19.200.0/24     # ASN:212238 | GB | CDNEXT | attempts:33 | density:0.129 | score:79 | action:REVIEW
+37.19.210.0/24     # ASN:212238 | GB | CDNEXT | attempts:33 | density:0.129 | score:79 | action:REVIEW
+68.235.46.0/24     # ASN:11878 | US | TZULO | attempts:256 | density:1.000 | score:614 | action:BLOCK
+79.127.217.0/24    # ASN:60068 | GB | CDN77 _ | attempts:22 | density:0.086 | score:52 | action:REVIEW
+87.251.64.0/24     # ASN:200730 | KZ | ISAEV | attempts:256 | density:1.000 | score:614 | action:BLOCK
+104.36.50.0/24     # ASN:203020 | IN | HOSTROYALE | attempts:41 | density:0.160 | score:98 | action:REVIEW
+138.199.43.0/24    # ASN:212238 | GB | CDNEXT | attempts:33 | density:0.129 | score:79 | action:REVIEW
+146.70.165.0/24    # ASN:9009 | RO | M247 | attempts:57 | density:0.223 | score:136 | action:BLOCK
+146.70.166.0/24    # ASN:9009 | RO | M247 | attempts:55 | density:0.215 | score:132 | action:BLOCK
+146.70.168.0/24    # ASN:9009 | RO | M247 | attempts:256 | density:1.000 | score:614 | action:BLOCK
+146.70.172.0/24    # ASN:9009 | RO | M247 | attempts:83 | density:0.324 | score:199 | action:BLOCK
+146.70.187.0/24    # ASN:9009 | RO | M247 | attempts:82 | density:0.320 | score:196 | action:BLOCK
+149.40.50.0/24     # ASN:212238 | GB | CDNEXT | attempts:42 | density:0.164 | score:100 | action:BLOCK
+173.249.252.0/24   # ASN:11878 | US | TZULO | attempts:59 | density:0.230 | score:141 | action:BLOCK
+185.156.46.0/24    # ASN:212238 | GB | CDNEXT | attempts:256 | density:1.000 | score:614 | action:BLOCK
+192.253.248.0/24   # ASN:213790 | GB | LIMITEDNETWORK-AS | attempts:256 | density:1.000 | score:614 | action:BLOCK
+208.131.130.0/24   # ASN:13213 | GB | UK2NET-AS | attempts:256 | density:1.000 | score:614 | action:BLOCK
