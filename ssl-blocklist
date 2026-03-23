@@ -29,3 +29,57 @@
 185.156.46.0/24    # ASN:212238 | GB | CDNEXT | attempts:256 | density:1.000 | score:614 | action:BLOCK
 192.253.248.0/24   # ASN:213790 | GB | LIMITEDNETWORK-AS | attempts:256 | density:1.000 | score:614 | action:BLOCK
 208.131.130.0/24   # ASN:13213 | GB | UK2NET-AS | attempts:256 | density:1.000 | score:614 | action:BLOCK
+###
+31.56.117.0/24 # score=113481 attempts=4728 ips=1 severity=CRITICAL tags=ATTACKER_PERSISTENCE,DISTRIBUTED_ATTACK,HIGH_FREQUENCY,USERNAME_SPRAY
+146.19.125.0/24 # score=49738 attempts=2072 ips=1 severity=CRITICAL tags=ATTACKER_PERSISTENCE,DISTRIBUTED_ATTACK,HIGH_FREQUENCY,LOW_SLOW_PROBE,USERNAME_SPRAY
+31.57.216.0/24 # score=3318 attempts=156 ips=6 severity=CRITICAL,HIGH tags=ATTACKER_PERSISTENCE,DISTRIBUTED_ATTACK,HIGH_FREQUENCY,LOW_SLOW_PROBE,USERNAME_SPRAY
+172.94.9.0/24 # score=1976 attempts=104 ips=11 severity=MEDIUM,CRITICAL tags=ATTACKER_PERSISTENCE,DISTRIBUTED_ATTACK,HIGH_FREQUENCY,LOW_SLOW_PROBE,USERNAME_SPRAY
+87.251.64.0/24 # score=936 attempts=144 ips=72 severity=MEDIUM tags=LOW_SLOW_PROBE
+192.253.248.0/24 # score=828 attempts=83 ips=26 severity=MEDIUM,HIGH tags=ATTACKER_PERSISTENCE,LOW_SLOW_PROBE
+144.172.99.0/24 # score=604 attempts=72 ips=7 severity=HIGH tags=DISTRIBUTED_ATTACK,HIGH_FREQUENCY
+144.172.91.0/24 # score=445 attempts=54 ips=6 severity=MEDIUM,HIGH tags=DISTRIBUTED_ATTACK,HIGH_FREQUENCY,LOW_SLOW_PROBE
+167.88.164.0/24 # score=284 attempts=34 ips=3 severity=HIGH tags=DISTRIBUTED_ATTACK,HIGH_FREQUENCY
+172.86.123.0/24 # score=184 attempts=22 ips=2 severity=HIGH tags=DISTRIBUTED_ATTACK,HIGH_FREQUENCY
+144.172.105.0/24 # score=168 attempts=20 ips=2 severity=HIGH tags=DISTRIBUTED_ATTACK,HIGH_FREQUENCY
+172.86.89.0/24 # score=168 attempts=20 ips=2 severity=HIGH tags=DISTRIBUTED_ATTACK,HIGH_FREQUENCY
+172.86.90.0/24 # score=168 attempts=20 ips=2 severity=HIGH tags=DISTRIBUTED_ATTACK,HIGH_FREQUENCY
+144.172.94.0/24 # score=168 attempts=20 ips=2 severity=HIGH tags=DISTRIBUTED_ATTACK,HIGH_FREQUENCY
+172.86.117.0/24 # score=168 attempts=20 ips=2 severity=HIGH tags=DISTRIBUTED_ATTACK,HIGH_FREQUENCY
+130.12.182.0/24 # score=153 attempts=14 ips=2 severity=MEDIUM,HIGH tags=ATTACKER_PERSISTENCE,HIGH_FREQUENCY,LOW_SLOW_PROBE,USERNAME_SPRAY
+185.218.138.0/24 # score=130 attempts=28 ips=4 severity=MEDIUM,HIGH tags=DISTRIBUTED_ATTACK,HIGH_FREQUENCY,LOW_SLOW_PROBE
+208.131.130.0/24 # score=111 attempts=18 ips=3 severity=MEDIUM tags=LOW_SLOW_PROBE
+45.61.157.0/24 # score=84 attempts=10 ips=1 severity=HIGH tags=DISTRIBUTED_ATTACK,HIGH_FREQUENCY
+172.86.113.0/24 # score=84 attempts=10 ips=1 severity=HIGH tags=DISTRIBUTED_ATTACK,HIGH_FREQUENCY
+172.86.121.0/24 # score=84 attempts=10 ips=1 severity=HIGH tags=DISTRIBUTED_ATTACK,HIGH_FREQUENCY
+144.172.108.0/24 # score=84 attempts=10 ips=1 severity=HIGH tags=DISTRIBUTED_ATTACK,HIGH_FREQUENCY
+172.86.127.0/24 # score=84 attempts=10 ips=1 severity=HIGH tags=DISTRIBUTED_ATTACK,HIGH_FREQUENCY
+216.126.236.0/24 # score=84 attempts=10 ips=1 severity=HIGH tags=DISTRIBUTED_ATTACK,HIGH_FREQUENCY
+144.172.104.0/24 # score=84 attempts=10 ips=1 severity=HIGH tags=DISTRIBUTED_ATTACK,HIGH_FREQUENCY
+37.19.210.0/24 # score=64 attempts=10 ips=4 severity=MEDIUM tags=LOW_SLOW_PROBE
+92.63.197.0/24 # score=64 attempts=10 ips=4 severity=MEDIUM tags=LOW_SLOW_PROBE
+138.199.43.0/24 # score=52 attempts=8 ips=4 severity=MEDIUM tags=LOW_SLOW_PROBE
+92.118.126.0/24 # score=52 attempts=8 ips=4 severity=MEDIUM tags=LOW_SLOW_PROBE
+79.127.217.0/24 # score=51 attempts=8 ips=3 severity=MEDIUM tags=LOW_SLOW_PROBE
+37.19.200.0/24 # score=51 attempts=8 ips=3 severity=MEDIUM tags=LOW_SLOW_PROBE
+23.234.88.171/32 # score=50 attempts=8 ips=2 severity=MEDIUM tags=LOW_SLOW_PROBE
+38.190.224.35/32 # score=50 attempts=8 ips=2 severity=MEDIUM tags=LOW_SLOW_PROBE
+185.156.73.0/24 # score=44 attempts=10 ips=1 severity=HIGH tags=DISTRIBUTED_ATTACK,HIGH_FREQUENCY
+146.70.187.0/24 # score=39 attempts=6 ips=3 severity=MEDIUM tags=LOW_SLOW_PROBE
+146.70.165.0/24 # score=39 attempts=6 ips=3 severity=MEDIUM tags=LOW_SLOW_PROBE
+194.213.18.0/24 # score=39 attempts=6 ips=3 severity=MEDIUM tags=LOW_SLOW_PROBE
+185.156.46.0/24 # score=38 attempts=6 ips=2 severity=MEDIUM tags=LOW_SLOW_PROBE
+23.234.94.117/32 # score=37 attempts=6 ips=1 severity=MEDIUM tags=LOW_SLOW_PROBE
+23.234.69.44/32 # score=26 attempts=4 ips=2 severity=MEDIUM tags=LOW_SLOW_PROBE
+149.40.50.0/24 # score=26 attempts=4 ips=2 severity=MEDIUM tags=LOW_SLOW_PROBE
+23.234.100.0/24 # score=25 attempts=4 ips=1 severity=MEDIUM tags=LOW_SLOW_PROBE
+146.70.166.197/32 # score=25 attempts=4 ips=1 severity=MEDIUM tags=LOW_SLOW_PROBE
+68.235.46.183/32 # score=25 attempts=4 ips=1 severity=MEDIUM tags=LOW_SLOW_PROBE
+68.168.222.0/24 # score=13 attempts=2 ips=1 severity=MEDIUM tags=LOW_SLOW_PROBE
+45.86.230.0/24 # score=13 attempts=2 ips=1 severity=MEDIUM tags=LOW_SLOW_PROBE
+213.109.192.0/24 # score=13 attempts=2 ips=1 severity=MEDIUM tags=LOW_SLOW_PROBE
+89.125.66.0/24 # score=13 attempts=2 ips=1 severity=MEDIUM tags=LOW_SLOW_PROBE
+104.164.20.233/32 # score=13 attempts=2 ips=1 severity=MEDIUM tags=LOW_SLOW_PROBE
+104.36.50.0/24 # score=13 attempts=2 ips=1 severity=MEDIUM tags=LOW_SLOW_PROBE
+23.234.80.147/32 # score=13 attempts=2 ips=1 severity=MEDIUM tags=LOW_SLOW_PROBE
+213.209.159.0/24 # score=13 attempts=2 ips=1 severity=MEDIUM tags=LOW_SLOW_PROBE
+88.210.63.4/32 # score=13 attempts=2 ips=1 severity=MEDIUM tags=LOW_SLOW_PROBE
