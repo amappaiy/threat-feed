@@ -205,7 +205,7 @@
 31.56.116.0/22 # score=535 reason=high_score+repeat_offender+pattern=bruteforce,burst_campaign,spray members=1
 31.56.88.0/22 # score=700 reason=high_score+repeat_offender+pattern=burst_campaign,spray members=9
 31.57.216.0/22 # score=3990 reason=high_score+repeat_offender+pattern=bruteforce,burst_campaign,spray members=7
-36.143.120.0/22 # score=61 reason=repeat_offender members=1
+#36.143.120.0/22 # score=61 reason=repeat_offender members=1
 37.170.194.50/32 # score=5 reason=single_campaign
 37.189.99.131/32 # score=5 reason=single_campaign
 37.19.200.0/22 # score=5275 reason=cidr_density+high_score+repeat_offender+wide_spread+pattern=burst_campaign,recon,spray members=33
